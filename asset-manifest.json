@@ -1,14 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a77b705.css",
-    "main.js": "/static/js/main.22d61067.js",
+    "main.css": "/static/css/main.8a66ef43.css",
+    "main.js": "/static/js/main.409b465a.js",
+    "static/media/buildings-4251977_1280.jpg": "/static/media/buildings-4251977_1280.d85d5e4d349610f6386e.jpg",
+    "static/media/porto-343487_1280.jpg": "/static/media/porto-343487_1280.1511ca957fb752dbe111.jpg",
+    "static/media/earth-11595.jpg": "/static/media/earth-11595.bdf9e7d229596052018c.jpg",
+    "static/media/castle-1644732_1280.jpg": "/static/media/castle-1644732_1280.815e341481f2117ade7e.jpg",
+    "static/media/code-2858768_1280.png": "/static/media/code-2858768_1280.64a08be14c3070c0267d.png",
+    "static/media/city-4820579_1280.jpg": "/static/media/city-4820579_1280.1cd2b1dc7ea7e333449d.jpg",
+    "static/media/portugal-971599_1280.jpg": "/static/media/portugal-971599_1280.5482d8ec43bbd2aa16af.jpg",
     "static/media/rafael-removebg-preview.png": "/static/media/rafael-removebg-preview.21f871e650543777b42d.png",
+    "static/media/portugal-1758845_1280.png": "/static/media/portugal-1758845_1280.84f6de588845ce306e25.png",
+    "static/media/caricature-1293848 1.png": "/static/media/caricature-1293848 1.fd7b029d3ff1888b71f4.png",
     "index.html": "/index.html",
-    "main.2a77b705.css.map": "/static/css/main.2a77b705.css.map",
-    "main.22d61067.js.map": "/static/js/main.22d61067.js.map"
+    "main.8a66ef43.css.map": "/static/css/main.8a66ef43.css.map",
+    "main.409b465a.js.map": "/static/js/main.409b465a.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a77b705.css",
-    "static/js/main.22d61067.js"
+    "static/css/main.8a66ef43.css",
+    "static/js/main.409b465a.js"
   ]
 }
