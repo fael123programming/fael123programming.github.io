@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e57936df.css",
-    "main.js": "/static/js/main.c1f61445.js",
+    "main.css": "/static/css/main.f3b3c83f.css",
+    "main.js": "/static/js/main.10c510a3.js",
     "static/media/buildings-4251977_1280.jpg": "/static/media/buildings-4251977_1280.d85d5e4d349610f6386e.jpg",
     "static/media/porto-343487_1280.jpg": "/static/media/porto-343487_1280.1511ca957fb752dbe111.jpg",
     "static/media/castle-1644732_1280.jpg": "/static/media/castle-1644732_1280.815e341481f2117ade7e.jpg",
@@ -16,11 +16,11 @@
     "static/media/caricature-1293848 1.png": "/static/media/caricature-1293848 1.fd7b029d3ff1888b71f4.png",
     "static/media/mingcute_code-fill.png": "/static/media/mingcute_code-fill.783ecdbff0c49f42ab8f.png",
     "index.html": "/index.html",
-    "main.e57936df.css.map": "/static/css/main.e57936df.css.map",
-    "main.c1f61445.js.map": "/static/js/main.c1f61445.js.map"
+    "main.f3b3c83f.css.map": "/static/css/main.f3b3c83f.css.map",
+    "main.10c510a3.js.map": "/static/js/main.10c510a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.e57936df.css",
-    "static/js/main.c1f61445.js"
+    "static/css/main.f3b3c83f.css",
+    "static/js/main.10c510a3.js"
   ]
 }
