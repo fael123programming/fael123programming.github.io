@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fael123programming.github.io/sitemap.xml
